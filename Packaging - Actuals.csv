@@ -1,0 +1,423 @@
+Material,Country,Region,Month,Actual_forecast_value
+EPS,W Europe,EMEA,Aug.20,1146.57
+EPS,United States,NAFTA,Aug.20,1300.71
+GP-Homopolymer PP,China,APAC,Aug.20,900
+GP-Homopolymer PP,North America,NAFTA,Aug.20,1410.94
+HDPE,SE Asia,APAC,Aug.20,882.56
+HDPE,China,APAC,Aug.20,835
+HDPE,W Europe,EMEA,Aug.20,1078.4
+HDPE,North America,NAFTA,Aug.20,805.93
+Homopolymer PP,W Europe,EMEA,Aug.20,1108.17
+Homopolymer PP,North America,NAFTA,Aug.20,1146.39
+Homopolymer PP,SE Asia,APAC,Aug.20,930.85
+LDPE,SE Asia,APAC,Aug.20,960.15
+LDPE,China,APAC,Aug.20,1019
+LDPE,North America,NAFTA,Aug.20,907.88
+LDPE,W Europe,EMEA,Aug.20,1176.49
+EPS,NE Asia,APAC,Aug.20,992.5
+Unbleached kraftliner,Germany,EMEA,Aug.20,575
+Testliner 2,Germany,EMEA,Aug.20,447.5
+Coated Duplex GC2,Germany,EMEA,Aug.20,1182.5
+Whitelined Chipboard GD2,Germany,EMEA,Aug.20,740
+Unbleached kraftliner,France,EMEA,Aug.20,582.5
+Testliner 2,France,EMEA,Aug.20,457.5
+Testliner 2,Italy,EMEA,Aug.20,295
+Unbleached kraftliner,Italy,EMEA,Aug.20,512.5
+Unbleached kraftliner,United States,NAFTA,Aug.20,715
+Semichemical Fluting,United States,NAFTA,Aug.20,615
+Unbleached kraftliner,Mexico,NAFTA,Aug.20,590
+WhiteTop Kraftliner,China,APAC,Aug.20,4584
+Testliner 2,China,APAC,Aug.20,4045
+PIX Pulp NBSK,Canada,NAFTA,Aug.20,1130
+Pulp Bleached Softwood Kraft,United States,NAFTA,Aug.20,1060
+Coated Duplex GC2,Germany,EMEA,Jul.20,1182.5
+Semichemical Fluting,France,EMEA,Jul.20,602.5
+Testliner 2,France,EMEA,Jul.20,477.5
+Testliner 2,Germany,EMEA,Jul.20,467.5
+Testliner 2,Italy,EMEA,Jul.20,318
+Unbleached kraftliner,Germany,EMEA,Jul.20,575
+Unbleached kraftliner,France,EMEA,Jul.20,582.5
+Unbleached kraftliner,Italy,EMEA,Jul.20,516
+Whitelined Chipboard GD2,Germany,EMEA,Jul.20,740
+EPS,NE Asia,APAC,Jul.20,797.8
+EPS,W Europe,EMEA,Jul.20,1215.91
+EPS,United States,NAFTA,Jul.20,2303.81
+GP-Homopolymer PP,China,APAC,Jul.20,901
+GP-Homopolymer PP,North America,NAFTA,Jul.20,1212.53
+HDPE,SE Asia,APAC,Jul.20,925.97
+HDPE,W Europe,EMEA,Jul.20,1019.68
+HDPE,North America,NAFTA,Jul.20,756.58
+Homopolymer PP,SE Asia,APAC,Jul.20,917.95
+Homopolymer PP,W Europe,EMEA,Jul.20,1318.18
+Homopolymer PP,North America,NAFTA,Jul.20,947.98
+LDPE,SE Asia,APAC,Jul.20,1003.54
+LDPE,W Europe,EMEA,Jul.20,1115.06
+LDPE,North America,NAFTA,Jul.20,857.23
+EPS,NE Asia,APAC,Sep.20,945
+EPS,W Europe,EMEA,Sep.20,1125.59
+EPS,United States,NAFTA,Sep.20,1322.76
+LDPE,W Europe,EMEA,Sep.20,1185.13
+HDPE,China,APAC,Sep.20,888
+HDPE,SE Asia,APAC,Sep.20,920.53
+HDPE,W Europe,EMEA,Sep.20,1085.57
+LDPE,China,APAC,Sep.20,1144
+LDPE,SE Asia,APAC,Sep.20,996.4
+LDPE,North America,NAFTA,Sep.20,998.29
+HDPE,North America,NAFTA,Sep.20,894.98
+GP-Homopolymer PP,North America,NAFTA,Sep.20,1477.08
+Homopolymer PP,W Europe,EMEA,Sep.20,1350.71
+Homopolymer PP,SE Asia,APAC,Sep.20,985.84
+Homopolymer PP,North America,NAFTA,Sep.20,1212.53
+GP-Homopolymer PP,China,APAC,Sep.20,939
+Unbleached kraftliner,Germany,EMEA,Sep.20,555
+Testliner 2,Germany,EMEA,Sep.20,447.5
+Coated Duplex GC2,Germany,EMEA,Sep.20,1182.5
+Whitelined Chipboard GD2,Germany,EMEA,Sep.20,732.5
+Unbleached kraftliner,France,EMEA,Sep.20,572.5
+Testliner 2,France,EMEA,Sep.20,457.5
+Testliner 2,Italy,EMEA,Sep.20,295
+Unbleached kraftliner,Italy,EMEA,Sep.20,502.5
+Unbleached kraftliner,United States,NAFTA,Sep.20,715
+Semichemical Fluting,United States,NAFTA,Sep.20,615
+Unbleached kraftliner,Mexico,NAFTA,Sep.20,590
+WhiteTop Kraftliner,China,APAC,Sep.20,4631
+Testliner 2,China,APAC,Sep.20,4104
+PIX Pulp NBSK,Canada,NAFTA,Sep.20,1130
+Pulp Bleached Softwood Kraft,United States,NAFTA,Sep.20,1050
+EPS,NE Asia,APAC,Oct.20,1042
+EPS,W Europe,EMEA,Oct.20,1083.627797
+EPS,United States,NAFTA,Oct.20,1322.76
+LDPE,W Europe,EMEA,Oct.20,1177.29
+HDPE,China,APAC,Oct.20,901
+HDPE,SE Asia,APAC,Oct.20,1001.49
+HDPE,W Europe,EMEA,Oct.20,1075
+LDPE,China,APAC,Oct.20,1162
+LDPE,SE Asia,APAC,Oct.20,1079.41
+LDPE,North America,NAFTA,Oct.20,1004.75
+HDPE,North America,NAFTA,Oct.20,902.62
+GP-Homopolymer PP,North America,NAFTA,Oct.20,1488.105
+Homopolymer PP,W Europe,EMEA,Oct.20,1313.309776
+Homopolymer PP,SE Asia,APAC,Oct.20,1020.61
+Homopolymer PP,North America,NAFTA,Oct.20,1245.599
+GP-Homopolymer PP,China,APAC,Oct.20,951
+Unbleached kraftliner,Germany,EMEA,Oct.20,555
+Testliner 2,Germany,EMEA,Oct.20,477.5
+Coated Duplex GC2,Germany,EMEA,Oct.20,1182.5
+Whitelined Chipboard GD2,Germany,EMEA,Oct.20,727.5
+Unbleached kraftliner,France,EMEA,Oct.20,572.5
+Testliner 2,France,EMEA,Oct.20,487.5
+Testliner 2,Italy,EMEA,Oct.20,312.5
+Unbleached kraftliner,Italy,EMEA,Oct.20,502.5
+Unbleached kraftliner,United States,NAFTA,Oct.20,715
+Semichemical Fluting,United States,NAFTA,Oct.20,615
+Unbleached kraftliner,Mexico,NAFTA,Oct.20,610
+WhiteTop Kraftliner,China,APAC,Oct.20,4686
+Testliner 2,China,APAC,Oct.20,4170
+PIX Pulp NBSK,Canada,NAFTA,Oct.20,1130
+Pulp Bleached Softwood Kraft,United States,NAFTA,Oct.20,1050
+EPS,NE Asia,APAC,Nov.20,1372.5
+EPS,W Europe,EMEA,Nov.20,1158.392435
+EPS,United States,NAFTA,Nov.20,1344.806
+LDPE,W Europe,EMEA,Nov.20,1179.12
+HDPE,China,APAC,Nov.20,935
+HDPE,SE Asia,APAC,Nov.20,994.65
+HDPE,W Europe,EMEA,Nov.20,1077.05
+LDPE,China,APAC,Nov.20,1293
+LDPE,SE Asia,APAC,Nov.20,1073.45
+LDPE,North America,NAFTA,Nov.20,953.04
+HDPE,North America,NAFTA,Nov.20,849.11
+GP-Homopolymer PP,North America,NAFTA,Nov.20,1532.197
+Homopolymer PP,W Europe,EMEA,Nov.20,1312.056738
+Homopolymer PP,SE Asia,APAC,Nov.20,1035.97
+Homopolymer PP,North America,NAFTA,Nov.20,1278.668
+GP-Homopolymer PP,China,APAC,Nov.20,1061
+Unbleached kraftliner,Germany,EMEA,Nov.20,570
+Testliner 2,Germany,EMEA,Nov.20,497.5
+Coated Duplex GC2,Germany,EMEA,Nov.20,1182.5
+Whitelined Chipboard GD2,Germany,EMEA,Nov.20,727.5
+Unbleached kraftliner,France,EMEA,Nov.20,600
+Testliner 2,France,EMEA,Nov.20,507.5
+Testliner 2,Italy,EMEA,Nov.20,325
+Unbleached kraftliner,Italy,EMEA,Nov.20,522.5
+Unbleached kraftliner,United States,NAFTA,Nov.20,765
+Semichemical Fluting,United States,NAFTA,Nov.20,665
+Unbleached kraftliner,Mexico,NAFTA,Nov.20,630
+WhiteTop Kraftliner,China,APAC,Nov.20,4708
+Testliner 2,China,APAC,Nov.20,4218
+PIX Pulp NBSK,Canada,NAFTA,Nov.20,1130
+Pulp Bleached Softwood Kraft,United States,NAFTA,Nov.20,1050
+EPS,NE Asia,APAC,Dec.20,1297.5
+EPS,W Europe,EMEA,Dec.20,1350.364964
+EPS,United States,NAFTA,Dec.20,1455.036
+LDPE,W Europe,EMEA,Dec.20,1226.5
+HDPE,China,APAC,Dec.20,953
+HDPE,SE Asia,APAC,Dec.20,1118.12
+HDPE,W Europe,EMEA,Dec.20,1124.06
+LDPE,China,APAC,Dec.20,1408
+LDPE,SE Asia,APAC,Dec.20,1200.05
+LDPE,North America,NAFTA,Dec.20,1069.67
+HDPE,North America,NAFTA,Dec.20,964.79
+GP-Homopolymer PP,North America,NAFTA,Dec.20,1906.979
+Homopolymer PP,W Europe,EMEA,Dec.20,1411.192214
+Homopolymer PP,SE Asia,APAC,Dec.20,1112.79
+Homopolymer PP,North America,NAFTA,Dec.20,1675.496
+GP-Homopolymer PP,China,APAC,Dec.20,1117
+Unbleached kraftliner,Germany,EMEA,Dec.20,600
+Testliner 2,Germany,EMEA,Dec.20,527.5
+Coated Duplex GC2,Germany,EMEA,Dec.20,1182.5
+Whitelined Chipboard GD2,Germany,EMEA,Dec.20,727.5
+Unbleached kraftliner,France,EMEA,Dec.20,617.5
+Testliner 2,France,EMEA,Dec.20,537.5
+Testliner 2,Italy,EMEA,Dec.20,330
+Unbleached kraftliner,Italy,EMEA,Dec.20,542.5
+Unbleached kraftliner,United States,NAFTA,Dec.20,765
+Semichemical Fluting,United States,NAFTA,Dec.20,665
+Unbleached kraftliner,Mexico,NAFTA,Dec.20,640
+WhiteTop Kraftliner,China,APAC,Dec.20,4718
+Testliner 2,China,APAC,Dec.20,4268
+PIX Pulp NBSK,Canada,NAFTA,Dec.20,1150
+Pulp Bleached Softwood Kraft,United States,NAFTA,Dec.20,1070
+EPS,NE Asia,APAC,Jan.21,1216
+EPS,W Europe,EMEA,Jan.21,1485.992692
+EPS,United States,NAFTA,Jan.21,1807.772
+LDPE,W Europe,EMEA,Jan.21,1275.92
+HDPE,China,APAC,Jan.21,936
+HDPE,SE Asia,APAC,Jan.21,1141.89
+HDPE,W Europe,EMEA,Jan.21,1168.16
+LDPE,China,APAC,Jan.21,1338
+LDPE,SE Asia,APAC,Jan.21,1222.74
+LDPE,North America,NAFTA,Jan.21,1216.36
+HDPE,North America,NAFTA,Jan.21,1112.63
+GP-Homopolymer PP,North America,NAFTA,Jan.21,2171.531
+Homopolymer PP,W Europe,EMEA,Jan.21,1559.0743
+Homopolymer PP,SE Asia,APAC,Jan.21,1090.37
+Homopolymer PP,North America,NAFTA,Jan.21,1829.818
+GP-Homopolymer PP,China,APAC,Jan.21,1095
+Unbleached kraftliner,Germany,EMEA,Jan.21,600
+Testliner 2,Germany,EMEA,Jan.21,527.5
+Coated Duplex GC2,Germany,EMEA,Jan.21,1182.5
+Whitelined Chipboard GD2,Germany,EMEA,Jan.21,727.5
+Unbleached kraftliner,France,EMEA,Jan.21,617.5
+Testliner 2,France,EMEA,Jan.21,557.5
+Testliner 2,Italy,EMEA,Jan.21,350
+Unbleached kraftliner,Italy,EMEA,Jan.21,565
+Unbleached kraftliner,United States,NAFTA,Jan.21,765
+Semichemical Fluting,United States,NAFTA,Jan.21,665
+Unbleached kraftliner,Mexico,NAFTA,Jan.21,650
+WhiteTop Kraftliner,China,APAC,Jan.21,4866
+Testliner 2,China,APAC,Jan.21,4463
+PIX Pulp NBSK,Canada,NAFTA,Jan.21,1185
+Pulp Bleached Softwood Kraft,United States,NAFTA,Jan.21,1110
+EPS,NE Asia,APAC,Feb.21,1407.5
+EPS,W Europe,EMEA,Feb.21,1499.395405
+EPS,United States,NAFTA,Feb.21,1719.588
+LDPE,W Europe,EMEA,Feb.21,1334.93
+HDPE,China,APAC,Feb.21,1013
+HDPE,SE Asia,APAC,Feb.21,1041.47
+HDPE,W Europe,EMEA,Feb.21,1228.31
+LDPE,China,APAC,Feb.21,1435
+LDPE,SE Asia,APAC,Feb.21,1123.47
+LDPE,North America,NAFTA,Feb.21,1252.63
+HDPE,North America,NAFTA,Feb.21,1147.59
+GP-Homopolymer PP,North America,NAFTA,Feb.21,2921.095
+Homopolymer PP,W Europe,EMEA,Feb.21,1759.371221
+Homopolymer PP,SE Asia,APAC,Feb.21,1123.77
+Homopolymer PP,North America,NAFTA,Feb.21,2094.37
+GP-Homopolymer PP,China,APAC,Feb.21,1157
+Unbleached kraftliner,Germany,EMEA,Feb.21,640
+Testliner 2,Germany,EMEA,Feb.21,557.5
+Coated Duplex GC2,Germany,EMEA,Feb.21,1182.5
+Whitelined Chipboard GD2,Germany,EMEA,Feb.21,742.5
+Unbleached kraftliner,France,EMEA,Feb.21,667.5
+Testliner 2,France,EMEA,Feb.21,587.5
+Testliner 2,Italy,EMEA,Feb.21,370
+Unbleached kraftliner,Italy,EMEA,Feb.21,575
+Unbleached kraftliner,United States,NAFTA,Feb.21,765
+Semichemical Fluting,United States,NAFTA,Feb.21,665
+Unbleached kraftliner,Mexico,NAFTA,Feb.21,665
+WhiteTop Kraftliner,China,APAC,Feb.21,5056
+Testliner 2,China,APAC,Feb.21,4638
+PIX Pulp NBSK,Canada,NAFTA,Feb.21,1300
+Pulp Bleached Softwood Kraft,United States,NAFTA,Feb.21,1220
+EPS,NE Asia,APAC,Mar.21,1502.5
+EPS,W Europe,EMEA,Mar.21,1976.190476
+EPS,United States,NAFTA,Mar.21,1631.404
+LDPE,W Europe,EMEA,Mar.21,1390.11
+HDPE,China,APAC,Mar.21,1147
+HDPE,SE Asia,APAC,Mar.21,1253.03
+HDPE,W Europe,EMEA,Mar.21,1286.32
+LDPE,China,APAC,Mar.21,1607
+LDPE,SE Asia,APAC,Mar.21,1336.85
+LDPE,North America,NAFTA,Mar.21,1531.52
+HDPE,North America,NAFTA,Mar.21,1424.22
+GP-Homopolymer PP,North America,NAFTA,Mar.21,2645.52
+Homopolymer PP,W Europe,EMEA,Mar.21,2029.761905
+Homopolymer PP,SE Asia,APAC,Mar.21,1300.97
+Homopolymer PP,North America,NAFTA,Mar.21,2755.75
+GP-Homopolymer PP,China,APAC,Mar.21,1303
+Unbleached kraftliner,Germany,EMEA,Mar.21,650
+Testliner 2,Germany,EMEA,Mar.21,587.5
+Coated Duplex GC2,Germany,EMEA,Mar.21,1182.5
+Whitelined Chipboard GD2,Germany,EMEA,Mar.21,742.5
+Unbleached kraftliner,France,EMEA,Mar.21,667.5
+Testliner 2,France,EMEA,Mar.21,607.5
+Testliner 2,Italy,EMEA,Mar.21,395
+Unbleached kraftliner,Italy,EMEA,Mar.21,590
+Unbleached kraftliner,United States,NAFTA,Mar.21,785
+Semichemical Fluting,United States,NAFTA,Mar.21,695
+Unbleached kraftliner,Mexico,NAFTA,Mar.21,680
+WhiteTop Kraftliner,China,APAC,Mar.21,4976
+Testliner 2,China,APAC,Mar.21,4513
+PIX Pulp NBSK,Canada,NAFTA,Mar.21,1420
+Pulp Bleached Softwood Kraft,United States,NAFTA,Mar.21,1350
+EPS,NE Asia,APAC,Apr.21,1534
+EPS,W Europe,EMEA,Apr.21,2345.238095
+EPS,United States,NAFTA,Apr.21,1829.818
+LDPE,W Europe,EMEA,Apr.21,1421.06
+HDPE,China,APAC,Apr.21,1150
+HDPE,SE Asia,APAC,Apr.21,1226.32
+HDPE,W Europe,EMEA,Apr.21,1319.95
+LDPE,China,APAC,Apr.21,1547
+LDPE,SE Asia,APAC,Apr.21,1308.2
+LDPE,North America,NAFTA,Apr.21,1608.29
+HDPE,North America,NAFTA,Apr.21,1501
+GP-Homopolymer PP,North America,NAFTA,Apr.21,2447.106
+Homopolymer PP,W Europe,EMEA,Apr.21,2148.809524
+Homopolymer PP,SE Asia,APAC,Apr.21,1251.37
+Homopolymer PP,North America,NAFTA,Apr.21,2138.462
+GP-Homopolymer PP,China,APAC,Apr.21,1272
+Unbleached kraftliner,Germany,EMEA,Apr.21,822.5
+Testliner 2,Germany,EMEA,Apr.21,749
+Coated Duplex GC2,Germany,EMEA,Apr.21,1389
+Whitelined Chipboard GD2,Germany,EMEA,Apr.21,901.5
+Unbleached kraftliner,France,EMEA,Apr.21,843
+Testliner 2,France,EMEA,Apr.21,772.5
+Testliner 2,Italy,EMEA,Apr.21,522.5
+Unbleached kraftliner,Italy,EMEA,Apr.21,728.5
+Unbleached kraftliner,United States,NAFTA,Apr.21,825
+Semichemical Fluting,United States,NAFTA,Apr.21,735
+Unbleached kraftliner,Mexico,NAFTA,Apr.21,700
+WhiteTop Kraftliner,China,APAC,Apr.21,732
+Testliner 2,China,APAC,Apr.21,639
+PIX Pulp NBSK,Canada,NAFTA,Apr.21,1565
+Pulp Bleached Softwood Kraft,United States,NAFTA,Apr.21,1505
+EPS,NE Asia,APAC,May.21,1617.5
+EPS,W Europe,EMEA,May.21,2645.631068
+EPS,United States,NAFTA,May.21,1962.094
+LDPE,W Europe,EMEA,May.21,1460.25
+HDPE,China,APAC,May.21,1065
+HDPE,SE Asia,APAC,May.21,1256.34
+HDPE,W Europe,EMEA,May.21,1351.88
+LDPE,China,APAC,May.21,1313
+LDPE,SE Asia,APAC,May.21,1341.79
+LDPE,North America,NAFTA,May.21,1262.38
+HDPE,North America,NAFTA,May.21,1156.67
+GP-Homopolymer PP,North America,NAFTA,May.21,2777.796
+Homopolymer PP,W Europe,EMEA,May.21,2408.980583
+Homopolymer PP,SE Asia,APAC,May.21,1235.65
+Homopolymer PP,North America,NAFTA,May.21,2138.462
+GP-Homopolymer PP,China,APAC,May.21,1118
+Unbleached kraftliner,Germany,EMEA,May.21,841
+Testliner 2,Germany,EMEA,May.21,802
+Coated Duplex GC2,Germany,EMEA,May.21,1442
+Whitelined Chipboard GD2,Germany,EMEA,May.21,940.5
+Unbleached kraftliner,France,EMEA,May.21,862
+Testliner 2,France,EMEA,May.21,826
+Testliner 2,Italy,EMEA,May.21,577
+Unbleached kraftliner,Italy,EMEA,May.21,784
+Unbleached kraftliner,United States,NAFTA,May.21,825
+Semichemical Fluting,United States,NAFTA,May.21,735
+Unbleached kraftliner,Mexico,NAFTA,May.21,710
+WhiteTop Kraftliner,China,APAC,May.21,773
+Testliner 2,China,APAC,May.21,681
+PIX Pulp NBSK,Canada,NAFTA,May.21,1615
+Pulp Bleached Softwood Kraft,United States,NAFTA,May.21,1585
+EPS,NE Asia,APAC,Jun.21,1530
+EPS,W Europe,EMEA,Jun.21,2258.454106
+EPS,United States,NAFTA,Jun.21,2050.278
+LDPE,W Europe,EMEA,Jun.21,1476.46
+HDPE,China,APAC,Jun.21,1025
+HDPE,SE Asia,APAC,Jun.21,1100.27
+HDPE,W Europe,EMEA,Jun.21,1370.27
+LDPE,China,APAC,Jun.21,1216
+LDPE,SE Asia,APAC,Jun.21,1186.06
+LDPE,North America,NAFTA,Jun.21,1111.44
+HDPE,North America,NAFTA,Jun.21,1006.99
+GP-Homopolymer PP,North America,NAFTA,Jun.21,2976.21
+Homopolymer PP,W Europe,EMEA,Jun.21,2403.381643
+Homopolymer PP,SE Asia,APAC,Jun.21,1116.81
+Homopolymer PP,North America,NAFTA,Jun.21,2292.784
+GP-Homopolymer PP,China,APAC,Jun.21,1093
+Unbleached kraftliner,Germany,EMEA,Jun.21,917
+Testliner 2,Germany,EMEA,Jun.21,816
+Coated Duplex GC2,Germany,EMEA,Jun.21,1489
+Whitelined Chipboard GD2,Germany,EMEA,Jun.21,981.5
+Unbleached kraftliner,France,EMEA,Jun.21,938.5
+Testliner 2,France,EMEA,Jun.21,841
+Testliner 2,Italy,EMEA,Jun.21,617.5
+Unbleached kraftliner,Italy,EMEA,Jun.21,828.5
+Unbleached kraftliner,United States,NAFTA,Jun.21,825
+Semichemical Fluting,United States,NAFTA,Jun.21,735
+Unbleached kraftliner,Mexico,NAFTA,Jun.21,720
+WhiteTop Kraftliner,China,APAC,Jun.21,774
+Testliner 2,China,APAC,Jun.21,680
+PIX Pulp NBSK,Canada,NAFTA,Jun.21,1615
+Pulp Bleached Softwood Kraft,United States,NAFTA,Jun.21,1585
+EPS,NE Asia,APAC,Jul.21,1562
+EPS,W Europe,EMEA,Jul.21,2234.042553
+EPS,United States,NAFTA,Jul.21,2182.554
+LDPE,W Europe,EMEA,Jul.21,1542.2
+HDPE,China,APAC,Jul.21,1062
+HDPE,SE Asia,APAC,Jul.21,1177.56
+HDPE,W Europe,EMEA,Jul.21,1419.76
+LDPE,China,APAC,Jul.21,1295
+LDPE,SE Asia,APAC,Jul.21,1262.93
+LDPE,North America,NAFTA,Jul.21,1463.34
+HDPE,North America,NAFTA,Jul.21,1354.59
+GP-Homopolymer PP,North America,NAFTA,Jul.21,3086.44
+Homopolymer PP,W Europe,EMEA,Jul.21,2299.054374
+Homopolymer PP,SE Asia,APAC,Jul.21,1136.62
+Homopolymer PP,North America,NAFTA,Jul.21,2535.29
+GP-Homopolymer PP,China,APAC,Jul.21,1112
+Unbleached kraftliner,Germany,EMEA,Jul.21,889
+Testliner 2,Germany,EMEA,Jul.21,827
+Unbleached kraftliner,France,EMEA,Jul.21,909.5
+Testliner 2,France,EMEA,Jul.21,850
+Testliner 2,Italy,EMEA,Jul.21,628
+Unbleached kraftliner,Italy,EMEA,Jul.21,832.5
+Unbleached kraftliner,United States,NAFTA,Jul.21,825
+Semichemical Fluting,United States,NAFTA,Jul.21,735
+Unbleached kraftliner,Mexico,NAFTA,Jul.21,735
+WhiteTop Kraftliner,China,APAC,Jul.21,767
+Testliner 2,China,APAC,Jul.21,675
+PIX Pulp NBSK,Canada,NAFTA,Jul.21,1575
+Pulp Bleached Softwood Kraft,United States,NAFTA,Jul.21,1550
+EPS,NE Asia,APAC,Aug.21,1472.5
+EPS,W Europe,EMEA,Aug.21,2270.588235
+EPS,United States,NAFTA,Aug.21,2138.462
+LDPE,W Europe,EMEA,Aug.21,1607.5
+HDPE,China,APAC,Aug.21,1053
+HDPE,SE Asia,APAC,Aug.21,1167.38
+HDPE,W Europe,EMEA,Aug.21,1477.16
+LDPE,China,APAC,Aug.21,1366
+LDPE,SE Asia,APAC,Aug.21,1252.16
+LDPE,North America,NAFTA,Aug.21,1426.55
+HDPE,North America,NAFTA,Aug.21,1316.98
+GP-Homopolymer PP,North America,NAFTA,Aug.21,3328.946
+Homopolymer PP,W Europe,EMEA,Aug.21,2270.588235
+Homopolymer PP,SE Asia,APAC,Aug.21,1128.61
+Homopolymer PP,North America,NAFTA,Aug.21,2711.658
+GP-Homopolymer PP,China,APAC,Aug.21,1108
+Unbleached kraftliner,Germany,EMEA,Aug.21,949
+Testliner 2,Germany,EMEA,Aug.21,827.5
+Unbleached kraftliner,France,EMEA,Aug.21,970
+Testliner 2,France,EMEA,Aug.21,851
+Testliner 2,Italy,EMEA,Aug.21,658.5
+Unbleached kraftliner,Italy,EMEA,Aug.21,863.5
+Unbleached kraftliner,United States,NAFTA,Aug.21,875
+Semichemical Fluting,United States,NAFTA,Aug.21,795
+Unbleached kraftliner,Mexico,NAFTA,Aug.21,760
+WhiteTop Kraftliner,China,APAC,Aug.21,783
+Testliner 2,China,APAC,Aug.21,697
+PIX Pulp NBSK,Canada,NAFTA,Aug.21,1545
+Pulp Bleached Softwood Kraft,United States,NAFTA,Aug.21,1515
