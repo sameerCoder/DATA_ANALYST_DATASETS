@@ -1,0 +1,52 @@
+Question 01-
+What is Power BI?
+Write Pros & Cons of Power BI?
+
+Question 02-
+What are Major Components of Power BI?
+
+Question 03-
+Difference between Power BI and Tableau?
+
+Question 04-
+What is Power BI Desktop?
+
+Question 05- 
+Use Case : Connecting a File using Power BI Desktop and formatting the file
+
+Source : Sky Transport.xlsx
+
+Analytics : To create a new Power BI file, and load the Excel workbook containing a list of the Transport Data
+
+Report/Dashboard Name: Transport Data
+
+Expected Result : At the end to create a new Power BI file with the name skyData, 
+1-Hide a couple of columns (Category ID and Origin State),
+ and 
+2-create a table showing by Customer Name along with Revenue, Total Miles and Trip Type. 
+3-Finally Summarize the Revenue & Total Miles.
+
+Question 06-
+Use Case – Design dashboard with basic set of visualizations
+
+Source – Sky Transport.xlsx
+
+Analytics – Develop a dashboard to show top level brief overview of Sky
+
+Transport
+
+Report/Dashboard – Transport Data
+
+• Key Performance Indicators (KPIs) for Total Miles, Revenue, Cost.
+
+• Revenue Vs Miles by Shipping State
+
+• Revenue Vs Miles by Shipping City
+
+• Total Trips Vs Trips by Trip Types
+
+• % of Trips by Shipping State
+
+• Revenue Miles vs Total Miles
+
+Save this Power BI file with the name Trip Analysis
