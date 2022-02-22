@@ -1,0 +1,66 @@
+# Assignment Matplotlib and seaborn 
+Question 1 -
+What is Data Visualization?
+
+Question 2 -
+Why Data Visualization is important?
+
+Question 3 -
+How we can do Data Visualization using python i.e what all libraries?
+
+Question 4 -
+What all kinds of Plots we can do in Matplotlib python, Explain with each example plot script?
+
+Question 5 -
+What is different between Barplot and Histogram plot in python, explain with plot script?
+
+Question 6 -
+Create python scatter plot having plot tilte , xlabel and ylabel.
+
+Question 7 -
+Cretae python scatter plot- plotting 2 scatter plots in one figure and save the plot with name myscatter.png.
+
+Question 8 -
+Create python plot with legend at upperleft location.
+
+Question 9 -
+Dataset url - https://github.com/sameerCoder/DATA_ANALYST_DATASETS/tree/main/Matplotlib%20assignment
+Filename - us-marriages-divorces-1867-2014.csv
+
+Questions 10:
+1- Visualize the number of marriages and divorces per capita in the U.S. between 1867 and 2014.
+2- Set the xlabel, ylabel, xticks, yticks.
+3- Set annotate() with red color.
+
+Question 11:
+1- Different between Seaborn and Matplotlib, their respective usages.
+
+Question 12:
+Dataset url="https://raw.githubusercontent.com/sameerCoder/ML_Datasets/main/titanic.csv"
+1- Create Distplot, boxplot, joint plot, bar plot, count plot, Violin plot, Strip plot, Swarm plot.
+
+Question 13 -
+1- What is Heatmap and why we need Heatmap plot?
+2- Using above Dataset create Heatmap.
+3- Using above Dataset plot the heatmap of coorelation.
+
+Question 14 -
+Create pairplot of above Dataset.
+
+Question 15 - 
+What is Encapsulation, Explain with python script?
+
+Question 16 -
+What is Polymorphism, Explain with python script?
+
+Question 17 -
+What is Inheritance and How many Inheritances available in python?
+
+Question 18 -
+Create Python Script to create multiple folder inside current location.
+
+Question 19 -
+Create Python Script to list all the files and folder in current location.
+
+Question 20 -
+Create Python Script to display only and only all the .pdf files in current location.
